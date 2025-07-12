@@ -26,6 +26,6 @@ untuk backend hanya ada 2 level admin dan owner
 login admin pass admin untuk admin
 login owner pass admin untuk owner
 
-https://github.com/bahyusanciko/ci-tiket
+https://github.com/keflay02/Toura-Bus-Web-App.git
 
-semoga bermanfaat tmn tmn :D
+
